@@ -165,7 +165,7 @@ spacy-loggers==1.0.5
 sqlparse==0.5.0
 srsly==2.4.8
 stack-data==0.6.3
-streamlit==1.35.0
+streamlit==1.38.0
 sympy==1.13.2
 tenacity==8.4.1
 terminado==0.18.1
@@ -198,4 +198,4 @@ wordcloud==1.9.3
 wrapt==1.16.0
 yfinance==0.2.40
 psycopg2-binary==2.9.9
-streamlit== 1.38.0
+
